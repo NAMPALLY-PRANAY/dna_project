@@ -93,9 +93,10 @@ Model B, being deeper and including dropout layers, achieved higher validation a
 pip install tensorflow scikit-learn matplotlib numpy
 ```
 
-##Folder Structure
+## Folder Structure
+```
 dna_project/
 ├── main.py             # Main training script
 └──README.md                    # This file
-
+```
 
